@@ -1,3 +1,10 @@
+# 👋 ¡Hola! Soy Guille Tudela
+
+Soy **estudiante de Desarrollo de Aplicaciones Web (DAW)**, pero llevo más de **10 años trabajando con WordPress** y creando **CMS a medida** para diferentes empresas. Me apasiona todo lo relacionado con el desarrollo web, desde el **BackEnd** hasta el **FrontEnd**. 🚀
+
+Me encanta enfrentar nuevos retos y seguir aprendiendo cada día. Mi objetivo es combinar lo que estoy aprendiendo en DAW con toda la experiencia que he acumulado para crear soluciones web que sean tanto robustas como creativas. 💻✨
+
+Siempre estoy dispuesto a colaborar y compartir conocimientos, ¡así que no dudes en contactarme! 😄
 # Hi there 👋
 
 <!--
